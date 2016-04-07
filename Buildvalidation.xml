@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automatio Test">
+    <test name="Smoke Testcases">
+    <classes>
+       <class name="com.morningstar.test.SampleTest3" />
+    </classes>
+    
+    </test>
+    
+</suite>
